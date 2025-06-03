@@ -56,3 +56,6 @@ It’s also a great base template that can be customized and expanded later—ad
 
  What I Learned:
 This project helped me understand the power of animation in web design. I learned how to use GSAP efficiently, how to manage animations based on scroll position, and how to optimize performance so animations don’t slow down the page. 
+
+
+ output: ![Image](https://github.com/user-attachments/assets/d2567363-e56a-49ca-861b-bddfc0fa824a)
